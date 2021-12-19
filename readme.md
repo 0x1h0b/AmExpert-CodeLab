@@ -1,12 +1,12 @@
 
 # AmExpert CodeLab
 
-### Credit Card default risk 
+#### Credit Card default risk 
 
 **Objective:-** To come up with an ML Model to determine whether companies or individuals would be able to return the money lent on time.
 
 
-### Approach 
+#### Approach 
 
 - First encoding the categorical columns ['gender','owns_car','owns_house']
     - binary encoded (0 or  1)
@@ -44,11 +44,9 @@
         - test_x , test_x_scaled, test_x_scaled_pca ( just like training phase)
 
 
-### Testing of different ML classifier trai datasets:
+#### Testing of different ML classifier training datasets:
 
-- Used Kfold and cross validation score and tried running training dataset on 5 different classifier,
-given next to them are the avg. f1 score from cross_val_score()
-
+- Used Kfold and cross validation score and tried running training dataset on 5 different classifier,given next to them are the avg. f1 score from cross_val_score()
     - normal raw dataset (phase1 dataset)
         - Logistic Regression : 0.9378
         - KNeighborsClassifier : 0.8301
@@ -72,10 +70,9 @@ given next to them are the avg. f1 score from cross_val_score()
     
 
 
-### Score / Result from online HackerEarth Judge   
+#### Score / Result from online HackerEarth Judge   
 
 - here dataset == test dataset(test.csv)
-
     - normal raw dataset (test_x)
         - Logistic Regression : 0.8085
         - KNeighborsClassifier : 0.4681
