@@ -4,6 +4,7 @@
 #### Credit Card default risk 
 
 **Objective:-** To come up with an ML Model to determine whether companies or individuals would be able to return the money lent on time.
+- Competition link : https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/machine-learning/credit-card-default-risk-5-95cbc85f/
 
 
 #### Approach 
