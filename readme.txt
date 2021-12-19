@@ -4,7 +4,7 @@ AmExpert CodeLab
 - Credit Card default risk - 
 
 Objective: 
-To comeup with an ML Model to determine whether companies or individuals would be able to return the money lent on time.
+To come up with an ML Model to determine whether companies or individuals would be able to return the money lent on time.
 
 
 ===========>  APPROACH <===========
@@ -76,7 +76,7 @@ given next to them are the avg. f1 score from cross_val_score()
 =======================
 Score / Result from online HackerEarth Judge   
 
-here dataset == test dataset(test.sv)
+here dataset == test dataset(test.csv)
 
     - normal raw dataset (test_x)
         - Logistic Regression : 0.8085
